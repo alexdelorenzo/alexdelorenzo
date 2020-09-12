@@ -1,4 +1,11 @@
-Thanks for checking out my page!
+Check out some of my projects here:
+
+| Python | Rust | JavaScript | Shell |
+--------------------------------------
+|        |      |            |       |
+--------------------------------------
+
+
 
 <!--
 **alexdelorenzo/alexdelorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
