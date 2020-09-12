@@ -3,7 +3,8 @@ Check out some of my projects here:
 | Python | Rust | JavaScript | Shell |
 |--------|------|------------|-------|
 |        |      |            |       |
-|--------|------|------------|-------|
+|        |      |            |       |
+|        |      |            |       |
 
 
 
