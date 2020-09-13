@@ -1,0 +1,3 @@
+ - [Bug 426039 - Dolphin causing unnecessary load on network file systems](https://bugs.kde.org/show_bug.cgi?id=426039)
+ - [Wine Gecko crashes upon loading Google Account login page](https://bugs.winehq.org/show_bug.cgi?id=49434)
+ - [onefile applications created with PyInstaller 3.6 fail, reporting 'INTERNAL ERROR: cannot create temporary directory' (improper handling of owner rights SID '{S-1-3-4}')](https://bugs.winehq.org/show_bug.cgi?id=49334)
