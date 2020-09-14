@@ -1,0 +1,2 @@
+ - Redox OS: [dd: Fix "warning: trait objects without an explicit `dyn` are deprecated"](https://gitlab.redox-os.org/redox-os/coreutils/-/merge_requests/207)
+ - Tiler: [Parallelize and parameterize tile creation](https://github.com/nuno-faria/tiler/pull/9)
