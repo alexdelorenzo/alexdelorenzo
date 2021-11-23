@@ -1,4 +1,4 @@
-Hi, I'm Alex. I have [a blog](https://alexdelorenzo.dev/), and I run a [reverse image search engine for Reddit submissions](https://dupebot.firstbyte.dev/). I've also built [some apps](https://producthunt.com/@alexdelorenzo/made).
+Hi, I'm Alex. I have [a blog](https://alexdelorenzo.dev/), and I run a [reverse image similarity search engine for Reddit submissions](https://dupebot.firstbyte.dev/). I've also built [some apps](https://producthunt.com/@alexdelorenzo/made).
 
 Check out some of my unpinned projects here:
 | Python | Rust | JavaScript | Shell |
