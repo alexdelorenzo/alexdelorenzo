@@ -1,4 +1,4 @@
-Hi, I'm Alex. I have [a software engineering blog](https://alexdelorenzo.dev/) that I post articles on, and I run a [reverse image similarity search engine 🔎](https://dupebot.firstbyte.dev/) for Reddit submissions. I've also built [some apps](https://producthunt.com/@alexdelorenzo/made).
+Hi, I'm Alex. I have [a software engineering blog](https://alexdelorenzo.dev/) that I post articles on, and I run a [image similarity search engine 🔎](https://dupebot.firstbyte.dev/) for Reddit submissions. I've also built [some apps](https://producthunt.com/@alexdelorenzo/made).
 
 
 Here are some cool projects that I've recently released 🎉:
