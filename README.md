@@ -21,7 +21,7 @@ Here are some cool projects that I've recently released 🎉:
   </td>
  
  </tr>
- 9400M
+ 
  <tr>
   <td><b>Rust</b></td>
     
