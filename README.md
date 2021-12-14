@@ -3,7 +3,7 @@ Hi, I'm Alex. I have [a software engineering blog](https://alexdelorenzo.dev/) t
 
 Here are some cool projects that I've recently released 🎉:
 - **[`📂 aiopath`](https://github.com/alexdelorenzo/aiopath)** - Async [`pathlib`](https://docs.python.org/3/library/pathlib.html) support for Python
-- **[`📺 cast_control`](https://github.com/alexdelorenzo/aiopath)** - Control Chromecasts from the Linux desktop
+- **[`📺 cast_control`](https://github.com/alexdelorenzo/cast_control)** - Control Chromecasts from the Linux desktop
 - **[`🧵 strs`](https://github.com/alexdelorenzo/strs)** - Easy string tools for the [shell](https://en.wikipedia.org/wiki/Unix_shell)
 
 <p></p>
