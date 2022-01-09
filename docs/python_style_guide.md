@@ -9,6 +9,17 @@ There are two sections, [Style](/#style) and [Coding](/#coding).
   - Instead of using 4 spaces for indents, contributions should use 2 spaces.
   - Assume 80 character width limits, although 120 character limits can be used sparingly for clarity.
   - Include trailing commas.
+  - Use explicit imports over wildcard imports
+  - Use relative imports over absolute imports
+  - Prefer modules over namespace packages
+  - Prefer importing code from modules directly into the top-level namespace, instead of importing entire modules:
+  ```python
+  # no
+  import sys
+
+  # yes
+  from sys import stdin, stdout
+  ```
   - No hanging indents. Prefer this:
   ```python3
   # no
@@ -27,12 +38,12 @@ There are two sections, [Style](/#style) and [Coding](/#coding).
   ```
 
 ## Coding
+  - Use lazy iterables wherever possible.
   - Use immutable objects by default. That means using `tuple`s, `frozenset`s, `NamedTuple`s and frozen `dataclasses`.
   - Prefer `NamedTuple`s and `dataclasses` to bare classes. Use the former when iteration over attributes matters, or for object destructuring.
   - Take advantage of nominal and structural typing with `abc.ABC` and`typing.Protocol`.
   - Use type hints for all functions and methods, constants, and class and instance attributes.
-  - Variables pointing to collections should have type hints.
+  - Variables pointing to collections and comprehensions should have type hints.
   - Types should be treated as static. If they change, then types must be casted with `typing.cast()`.
   - Use generics and generic type hints.
-  - Keep `mypy` happy.
-  - Use lazy iterables wherever possible.
+  - Keep `mypy` happy. If you can't keep it happy, use `#  type: ignore`.
