@@ -26,6 +26,7 @@ Here are some cool projects that I've recently released 🎉:
     <a href="https://gist.github.com/alexdelorenzo/2180dc69a587d79647309767d99489be"><code>pyclean</code></a>, 
     <a href="https://github.com/alexdelorenzo/grub2systemd"><code>grub2systemd</code></a>, 
     <a href="https://github.com/alexdelorenzo/save_skype"><code>save_skype</code></a>,
+    <a href="https://github.com/alexdelorenzo/html_wrapper"><code>html_wrapper</code></a>,
     <a href="https://github.com/alexdelorenzo/cast_convert"><code>cast_convert</code></a>, 
     <a href="https://github.com/alexdelorenzo/parse_google_sms"><code>parse_google_sms</code></a>, 
     <a href="https://github.com/alexdelorenzo/nth_py"><code>nth_py</code></a>
