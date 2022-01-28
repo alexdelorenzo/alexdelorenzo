@@ -29,7 +29,7 @@ Here are some cool projects that I've recently released 🎉:
     <a href="https://github.com/alexdelorenzo/html_wrapper"><code>html_wrapper</code></a>,
     <a href="https://github.com/alexdelorenzo/cast_convert"><code>cast_convert</code></a>, 
     <a href="https://github.com/alexdelorenzo/parse_google_sms"><code>parse_google_sms</code></a>, 
-    <a href="https://github.com/alexdelorenzo/nth_py"><code>nth_py</code></a>
+    <a href="https://github.com/alexdelorenzo/nth_py"><code>nth</code></a>
   </td>
  </tr>
  
@@ -38,7 +38,7 @@ Here are some cool projects that I've recently released 🎉:
    <td>
      <a href="https://github.com/alexdelorenzo/buffers-rs"><code>buffers-rs</code></a>, 
      <a href="https://github.com/alexdelorenzo/byte_lines"><code>byte_lines</code></a>, 
-     <a href="https://github.com/alexdelorenzo/nth_rs"><code>nth_rs</code></a>, 
+     <a href="https://github.com/alexdelorenzo/nth_rs"><code>nth</code></a>, 
      <a href="https://github.com/alexdelorenzo/rust-book"><code>rust-book</code></a>
    </td>
  </tr>
