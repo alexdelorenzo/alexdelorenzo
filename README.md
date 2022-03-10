@@ -47,6 +47,7 @@ Here are some cool projects that I've recently released 🎉:
   <td><b>JavaScript</b></td>
   <td>
     <a href="https://github.com/alexdelorenzo/delete_scrobbles"><code>delete_scrobbles</code></a>, 
+    <a href="https://github.com/alexdelorenzo/userscripts"><code>userscripts</code></a>, 
     <a href="https://github.com/alexdelorenzo/wordpress_menu"><code>wordpress_menu</code></a>, 
     <a href="https://github.com/alexdelorenzo/pinterest_tools"><code>pinterest_tools</code></a>
  </td>
