@@ -57,7 +57,7 @@ Here are some cool projects that I've recently released 🎉:
   <td><b>Shell</b></td>
   <td>
     <a href="https://github.com/alexdelorenzo/npm-user"><code>npm-user</code></a>,
-    <a href="https://github.com/alexdelorenzo/find-ubuntu-mirrors"><code>find-ubuntu-mirrors/code></a>,
+    <a href="https://github.com/alexdelorenzo/find-ubuntu-mirrors"><code>find-ubuntu-mirrors</code></a>,
     <a href="https://gist.github.com/alexdelorenzo/47267d8ba7cd50735517fe2c9da84414"><code>to_opml.sh</code></a>, 
     <a href="https://gist.github.com/alexdelorenzo/866225bb5de796efc65a09371b4880e6"><code>get_cflags.sh</code></a>,
     <a href="https://gist.github.com/alexdelorenzo/041f1d28df63419527bd189390a0595a"><code>install_ff.sh</code></a>, 
