@@ -3,6 +3,7 @@ Hi, I'm Alex. I have [a software engineering blog](https://alexdelorenzo.dev/) t
 Here are some cool projects that I've recently released 🎉:
 - **[`📁 aiopath`](https://github.com/alexdelorenzo/aiopath)** - Async [`pathlib`](https://docs.python.org/3/library/pathlib.html) support for Python
 - **[`📺 cast_control`](https://github.com/alexdelorenzo/cast_control)** - Control Chromecasts from the Linux desktop
+- **[`📽️ cast_convert`](https://github.com/alexdelorenzo/cast_convert)** - Convert videos for Chromecasts
 - **[`🧵 strs`](https://github.com/alexdelorenzo/strs)** - Easy string tools for the [shell](https://en.wikipedia.org/wiki/Unix_shell)
 
 <p></p>
@@ -27,7 +28,7 @@ Here are some cool projects that I've recently released 🎉:
     <a href="https://github.com/alexdelorenzo/grub2systemd"><code>grub2systemd</code></a>, 
     <a href="https://github.com/alexdelorenzo/save_skype"><code>save_skype</code></a>,
     <a href="https://github.com/alexdelorenzo/html_wrapper"><code>html_wrapper</code></a>,
-    <a href="https://github.com/alexdelorenzo/cast_convert"><code>cast_convert</code></a>, 
+<!--     <a href="https://github.com/alexdelorenzo/cast_convert"><code>cast_convert</code></a>,  -->
     <a href="https://github.com/alexdelorenzo/parse_google_sms"><code>parse_google_sms</code></a>, 
     <a href="https://github.com/alexdelorenzo/nth_py"><code>nth</code></a>
   </td>
