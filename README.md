@@ -2,7 +2,7 @@ Hi, I'm Alex! 👋
 
 I'm a software engineer and technical writer in the NYC metro area. I have [a tech and software development blog](https://alexdelorenzo.dev/) that I post articles on, and I run an [image similarity search engine 🔎](https://dupebot.firstbyte.dev/) for Reddit submissions. I've also built [some apps](https://producthunt.com/@alexdelorenzo/made).
 
-You can check out more of my work and projects on my [portfolio site](https://alexdelorenzo.dev/portfolio).
+You can also check out more of my work and projects on my [portfolio site](https://alexdelorenzo.dev/portfolio).
 
 Here are some cool projects that I've recently released 🎉:
 - **[`📁 aiopath`](https://github.com/alexdelorenzo/aiopath)** - Async [`pathlib`](https://docs.python.org/3/library/pathlib.html) support for Python
