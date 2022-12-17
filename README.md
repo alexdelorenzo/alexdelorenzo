@@ -1,9 +1,14 @@
-Hi, I'm Alex. I have [a software engineering blog](https://alexdelorenzo.dev/) that I post articles on, and I run an [image similarity search engine 🔎](https://dupebot.firstbyte.dev/) for Reddit submissions. I've also built [some apps](https://producthunt.com/@alexdelorenzo/made).
+Hi, I'm Alex! 👋 
+
+I'm a software engineer and technical writer in the NYC metro area. I have [a tech and software development blog](https://alexdelorenzo.dev/) that I post articles on, and I run an [image similarity search engine 🔎](https://dupebot.firstbyte.dev/) for Reddit submissions. I've also built [some apps](https://producthunt.com/@alexdelorenzo/made).
+
+You can check out more of my work and projects on my [portfolio site](https://alexdelorenzo.dev/portfolio).
 
 Here are some cool projects that I've recently released 🎉:
 - **[`📁 aiopath`](https://github.com/alexdelorenzo/aiopath)** - Async [`pathlib`](https://docs.python.org/3/library/pathlib.html) support for Python
 - **[`📺 cast_control`](https://github.com/alexdelorenzo/cast_control)** - Control Chromecasts from the Linux desktop
 - **[`📽️ cast_convert`](https://github.com/alexdelorenzo/cast_convert)** - Convert videos for Chromecasts
+- **[`⏲️ limiter`](https://github.com/alexdelorenzo/limiter)** - Easy rate limiting for Python via a [token bucket algorithm](https://en.wikipedia.org/wiki/Token_bucket)
 - **[`🧵 strs`](https://github.com/alexdelorenzo/strs)** - Easy string tools for the [shell](https://en.wikipedia.org/wiki/Unix_shell)
 
 <p></p>
@@ -18,7 +23,7 @@ Here are some cool projects that I've recently released 🎉:
  <tr>
   <td><b>Python</b></td>
   <td>
-    <a href="https://github.com/alexdelorenzo/limiter"><code>limiter</code></a>,
+<!--     <a href="https://github.com/alexdelorenzo/limiter"><code>limiter</code></a>, -->
     <a href="https://github.com/alexdelorenzo/play_sounds"><code>play_sounds</code></a>, 
     <a href="https://github.com/alexdelorenzo/mpris_server"><code>mpris_server</code></a>, 
     <a href="https://github.com/alexdelorenzo/disjoint_set"><code>disjoint_set</code></a>, 
