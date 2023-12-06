@@ -8,7 +8,7 @@ Here are some cool projects that I've recently released 🎉:
 - **[`📁 aiopath`](https://github.com/alexdelorenzo/aiopath)** - Async [`pathlib`](https://docs.python.org/3/library/pathlib.html) support for Python
 - **[`📺 cast_control`](https://github.com/alexdelorenzo/cast_control)** - Control Chromecasts from the Linux desktop
 - **[`📽️ cast_convert`](https://github.com/alexdelorenzo/cast_convert)** - Convert videos for Chromecasts
-- **[`▶️ mpris_server`](https://github.com/alexdelorenzo/mpris_server)** - Add media playback support to your Linux desktop app
+- **[`▶️ mpris_server`](https://github.com/alexdelorenzo/mpris_server)** - Add [media player](https://wiki.archlinux.org/title/MPRIS) support to your Linux desktop app
 - **[`⏲️ limiter`](https://github.com/alexdelorenzo/limiter)** - Easy rate limiting for Python via a [token bucket algorithm](https://en.wikipedia.org/wiki/Token_bucket)
 - **[`🧵 strs`](https://github.com/alexdelorenzo/strs)** - Easy string tools for the [shell](https://en.wikipedia.org/wiki/Unix_shell)
 
