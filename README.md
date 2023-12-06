@@ -8,6 +8,7 @@ Here are some cool projects that I've recently released 🎉:
 - **[`📁 aiopath`](https://github.com/alexdelorenzo/aiopath)** - Async [`pathlib`](https://docs.python.org/3/library/pathlib.html) support for Python
 - **[`📺 cast_control`](https://github.com/alexdelorenzo/cast_control)** - Control Chromecasts from the Linux desktop
 - **[`📽️ cast_convert`](https://github.com/alexdelorenzo/cast_convert)** - Convert videos for Chromecasts
+- **[`▶️ mpris_server`](https://github.com/alexdelorenzo/mpris_server)** - Add media playback support to your Linux desktop app
 - **[`⏲️ limiter`](https://github.com/alexdelorenzo/limiter)** - Easy rate limiting for Python via a [token bucket algorithm](https://en.wikipedia.org/wiki/Token_bucket)
 - **[`🧵 strs`](https://github.com/alexdelorenzo/strs)** - Easy string tools for the [shell](https://en.wikipedia.org/wiki/Unix_shell)
 
@@ -25,7 +26,7 @@ Here are some cool projects that I've recently released 🎉:
   <td>
 <!--     <a href="https://github.com/alexdelorenzo/limiter"><code>limiter</code></a>, -->
     <a href="https://github.com/alexdelorenzo/play_sounds"><code>play_sounds</code></a>, 
-    <a href="https://github.com/alexdelorenzo/mpris_server"><code>mpris_server</code></a>, 
+<!--     <a href="https://github.com/alexdelorenzo/mpris_server"><code>mpris_server</code></a>,  -->
     <a href="https://github.com/alexdelorenzo/disjoint_set"><code>disjoint_set</code></a>, 
     <a href="https://github.com/alexdelorenzo/buffer"><code>buffer</code></a>,
     <a href="https://github.com/alexdelorenzo/strs"><code>strs</code></a>,
