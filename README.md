@@ -24,6 +24,7 @@ Here are some cool projects that I've recently released 🎉:
  <tr>
   <td><b>Python</b></td>
   <td>
+    <a href="https://github.com/alexdelorenzo/copyq_archive"><code>copyq_archive</code></a>,
 <!--     <a href="https://github.com/alexdelorenzo/limiter"><code>limiter</code></a>, -->
     <a href="https://github.com/alexdelorenzo/play_sounds"><code>play_sounds</code></a>, 
 <!--     <a href="https://github.com/alexdelorenzo/mpris_server"><code>mpris_server</code></a>,  -->
