@@ -1,10 +1,12 @@
-<p align="center">
-  <strong>
-    ✔️ Check out
-    <a class="glow-text" href="https://cast.firstbyte.dev/">Cast Control Desktop 📺</a>
-    beta 👍
-  </strong>
-</p>
+<h3>
+  <p align="center">
+    <strong>
+      ✔️ Check out
+      <a href="https://cast.firstbyte.dev/" title="Cast Control Desktop - Control your streaming devices from your computer" >Cast Control Desktop 📺</a>
+      beta 👍
+    </strong>
+  </p>
+</h3>
 
 
 Hi, I'm Alex! 👋 
