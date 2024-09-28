@@ -1,3 +1,12 @@
+<p align="center">
+  <strong>
+    ✔️ Check out
+    <a class="glow-text" href="https://cast.firstbyte.dev/">Cast Control Desktop 📺</a>
+    beta 👍
+  </strong>
+</p>
+
+
 Hi, I'm Alex! 👋 
 
 I'm a software engineer and technical writer in the NYC metro area. I have [a tech and software development blog](https://alexdelorenzo.dev/) that I post articles on, and I run an [image similarity search engine 🔎](https://dupebot.firstbyte.dev/) for Reddit submissions. I've also built [some apps](https://producthunt.com/@alexdelorenzo/made).
